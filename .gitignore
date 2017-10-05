@@ -1,0 +1,49 @@
+Last login: Thu Oct  5 15:50:33 on ttys000
+Path loaded
+RubenMBP:~ Ruben$ cd dev/pytorch
+RubenMBP:pytorch Ruben$ cd hypetorch2
+RubenMBP:hypetorch2 Ruben$ vim .gitignore
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# Folders containing corpus and word embeddings #
+#################################################
+corpus/
+glove/
+
+# Compiled source #
+###################
+*.com
+*.class
+*.dll
+*.exe
+*.o
+*.so
+
+# Packages #
+############
+# it's better to unpack these files and commit the raw source
+# git has its own built in compression methods
+*.7z
+*.dmg
+*.gz
+*.iso
+*.jar
+-- INSERT -- 
+
