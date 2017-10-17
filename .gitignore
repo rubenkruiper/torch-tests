@@ -1,31 +1,7 @@
-Last login: Thu Oct  5 15:50:33 on ttys000
-Path loaded
-RubenMBP:~ Ruben$ cd dev/pytorch
-RubenMBP:pytorch Ruben$ cd hypetorch2
-RubenMBP:hypetorch2 Ruben$ vim .gitignore
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 # Folders containing corpus and word embeddings #
 #################################################
-corpus/
-glove/
+data/
+datasets/
 
 # Compiled source #
 ###################
