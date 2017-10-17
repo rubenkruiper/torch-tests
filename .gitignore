@@ -1,5 +1,3 @@
-# Folders containing corpus and word embeddings #
-#################################################
 data/
 dataset/
 *.txt
