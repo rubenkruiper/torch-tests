@@ -1,7 +1,8 @@
 # Folders containing corpus and word embeddings #
 #################################################
 data/
-datasets/
+dataset/
+*.txt
 
 # Compiled source #
 ###################
