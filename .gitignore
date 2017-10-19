@@ -1,5 +1,3 @@
-# Folders containing corpus and word embeddings #
-#################################################
 data/
 dataset/
 *.txt
@@ -22,5 +20,4 @@ dataset/
 *.gz
 *.iso
 *.jar
--- INSERT -- 
 
